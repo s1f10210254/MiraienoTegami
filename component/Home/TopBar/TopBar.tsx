@@ -89,11 +89,11 @@ export function TopBar(){
                 </MotionIconButton>
               
                 
-                <Link href="/info" passHref>
+                {/* <Link href="/info" passHref> */}
                     <IconButton aria-label="info" size="large" style={{ marginLeft:'auto' ,padding:'8px',color: '#000000' }}>
                         <InfoIcon fontSize="inherit" />
                     </IconButton>
-                </Link>
+                {/* </Link> */}
                 
 
             </Stack>
